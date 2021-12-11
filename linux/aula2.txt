@@ -1,0 +1,6 @@
+# Principais comandos do Terminal Linux
+
+Como comecei a usar computador com MS-DOS, os comandos são parecidos.
+
+Achei interessante conhecer o Nano, que estou usando agora. Eu só conhecia o VIM.
+
