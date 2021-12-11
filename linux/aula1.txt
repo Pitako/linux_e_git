@@ -1,0 +1,12 @@
+Introdução ao LINUX + Instalação da VM
+---------------------------------------
+Foi interessante ouvir sobre a história do Linux. Inclusive a diferença entre SO e Kernel. 
+
+Conheço Linux desde que surgiu, mas sempre tive preguiça de usar por causa da falta de interface gráfica, mesmo 
+conhecendo as vantagens de ter um sistema que permite ser totalmente configurado e ajustado. Mas essa vantagem 
+é uma coisa que eu ainda não precisei. 
+
+Outra coisa que me afasta do Linux é a compatibilidade com outros softwares, principalmente pacote office. Sei que já 
+existe alguns emuladores mas seria mais um dificultador no uso.
+
+
