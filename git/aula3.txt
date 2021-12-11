@@ -1,0 +1,10 @@
+#####################
+# Introdução ao Git #
+#####################
+
+Eu já conhecia o GIT e conceito de controle de versão, mas pela mesma preguiça de usar comandos no Linux, no 
+GIT eu só usava interface. Antes do GIT usei SVN também.
+
+Mas como meu papel era líder do time, eu mais acompanhava o uso do controle de versão do que usava de fato.
+
+Então aprender o comandos e usar mesmo está sendo interessante.
