@@ -1,0 +1,11 @@
+##########################
+# Aprofundando no Git II #
+##########################
+
+O controle de branches e commmits é uma coisa delicada que precisa ser feita por alguém com mais conhecimento 
+geral do sistema. Voltar commits e merges é uma operação muito delicada. O risco de efeito colateral é muito 
+alto.
+
+Acho que as aulas de GIT poderiam focar mais no conceito do que nos comandos, pois os comandos a gente acha na 
+internet, mas fixar os conceitos, o porquê existir o controle de versão, como é importante uma equipe ter esse 
+controle.
