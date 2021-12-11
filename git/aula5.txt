@@ -1,0 +1,8 @@
+#########################
+# Aprofundando no Git I #
+#########################
+
+Achei interessante desenhar o versionamento durante a aula.
+
+Mas acho que apresentar um desenho de uma árvore com um monte de versão da uma ideia melhor do versionamento e 
+depois vem os comandos.
