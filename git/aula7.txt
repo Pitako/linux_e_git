@@ -1,0 +1,5 @@
+##########
+# GitHub #
+##########
+
+Uma novidade pra mim nesse ponto foi aprender a separação do repositório local e remoto
